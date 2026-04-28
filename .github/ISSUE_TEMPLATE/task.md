@@ -6,7 +6,7 @@ labels: []
 ---
 
 ## Problema
-<!-- 2-3 frases. Que pasa o que falta. -->
+<!-- 2-3 frases. Que pasa, que falta, o que hay que construir. Sin solucion todavia. -->
 
 
 ## Definicion de "hecho"
@@ -15,8 +15,5 @@ labels: []
 - [ ] 
 
 
-<!--
-Si terminas escribiendo mas de ~500 palabras aqui, gradua este issue:
-crea un markdown en /specs/<nombre-corto>.md, abrelo como PR para que el equipo lo revise,
-y deja en este issue solo un TL;DR + link al spec.
--->
+> [!IMPORTANT]
+> Si esto pasa de ~500 palabras, gradua el issue: crea un markdown en `/specs/<nombre-corto>.md`, abrelo como PR para que el equipo lo revise, y deja aqui solo un TL;DR + link al spec.
